@@ -1,0 +1,51 @@
+html, body {
+    font-family: "Poppins", sans-serif;
+    max-width: 736px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 42px;
+}
+
+html {
+    margin: 0 auto;
+}
+
+body {
+}
+
+h1 {
+    font-size: 2.25rem;
+    font-weight: 600;
+    margin: 42px; 
+}
+
+h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+
+}
+
+p {
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+img {
+    max-width: 160px;
+    border-radius: 10px;
+}
+
+article {
+    display: flex;
+    margin-bottom: 52px
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 60px;
+}
